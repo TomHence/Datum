@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+.wrangler
+.nitro
+.tanstack
+.grok
+screenshots
+artifacts
+.project_id
+*.log
+.env
+.env.*
